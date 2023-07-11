@@ -5,3 +5,6 @@ git add .
 git commit -m "Add about html" => save change local 
 git push -u origin main => day len
 git pull => đồng bộ
+git branch git-jav => tạo branch
+git checkout git-jav => sw sang git-jav 
+git push --set-upstream origin git-jav
