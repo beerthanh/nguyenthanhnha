@@ -1,0 +1,7 @@
+git init
+git status
+git remote add origin https://github.com/beerthanh/nguyenthanhnha
+git add .
+git commit -m "Add about html"
+git push -u origin main
+git pull => đồng bộ
